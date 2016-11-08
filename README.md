@@ -3,7 +3,10 @@ A minimal CSS framework
 
 ## Getting Started
 Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.min.css">`
-Material Icons: `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` https://material.io/icons/
+
+Material Icons: `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+
+https://material.io/icons/
 
 ## Changelog
 Coming Soon
