@@ -6,7 +6,7 @@ Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Bo
 
 Material Icons (Optional): `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
 
-https://material.io/icons/ Please don't re-sell the icons.
+https://material.io/icons/
 
 ## Changelog
 Coming Soon
